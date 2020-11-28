@@ -4,4 +4,5 @@ Adds an example, which displays how to do something when the bot is mentioned by
 - [ ] I have updated the documentation to reflect the changes.      
 - [ ] This PR fixes an issue.  
 - [ ] This PR adds something new (e.g. new method or parameters).  
-- [ ] This PR is a breaking change (e.g. methods or parameters removed/renamed)  - [x] This PR is **not** a code change (e.g. documentation, README, ...)
+- [ ] This PR is a breaking change (e.g. methods or parameters removed/renamed)  -
+- [x] This PR is **not** a code change (e.g. documentation, README, ...)
